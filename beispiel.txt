@@ -1,4 +1,4 @@
 Test
-Version 1
+Version 2
 conflict
 aconflict-in-main

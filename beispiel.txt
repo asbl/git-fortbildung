@@ -1,4 +1,4 @@
 Test
 Version 1
 conflict
-bconflict-in-main
+aconflict-in-main
